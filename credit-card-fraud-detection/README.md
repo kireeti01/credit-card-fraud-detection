@@ -141,7 +141,7 @@ The system uses **Random Forest** and **Logistic Regression** models with **SMOT
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kireeti 01/credit-card-fraud-detection.git
+git clone https://github.com/kireeti01/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
