@@ -393,7 +393,7 @@ For questions or feedback, please open an issue or contact:
 
 - Email: kireeti213@gmail.com
 - LinkedIn: [Yogendra-Kireeti](https://linkedin.com/in/Yogendra-Kireeti)
-- GitHub: [@yourusername](https://github.com/kireeti01)
+- GitHub: [@kireeti01](https://github.com/kireeti01)
 
 ---
 
