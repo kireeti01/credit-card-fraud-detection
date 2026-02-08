@@ -391,8 +391,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact:
 
-- Email: kireeti213@gmail.com.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/Yogendra Kireeti Nadiminti)
+- Email: kireeti213@gmail.com
+- LinkedIn: [Yogendra-Kireeti](https://linkedin.com/in/Yogendra-Kireeti)
 - GitHub: [@yourusername](https://github.com/kireeti01)
 
 ---
