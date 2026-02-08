@@ -141,7 +141,7 @@ The system uses **Random Forest** and **Logistic Regression** models with **SMOT
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/kireeti 01/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
@@ -391,9 +391,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact:
 
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: kireeti213@gmail.com.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/Yogendra Kireeti Nadiminti)
+- GitHub: [@yourusername](https://github.com/kireeti01)
 
 ---
 
