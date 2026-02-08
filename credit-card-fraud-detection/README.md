@@ -402,5 +402,5 @@ For questions or feedback, please open an issue or contact:
 </p>
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Built with ❤️ by <a href="https://github.com/Kireeti 01">Yogendra Kireeti</a>
 </p>
