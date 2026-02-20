@@ -1,4 +1,4 @@
-# 🔥 Credit Card Fraud Detection System
+﻿# 🔥 Credit Card Fraud Detection System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python">
@@ -402,5 +402,5 @@ For questions or feedback, please open an issue or contact:
 </p>
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Kireeti 01">Yogendra Kireeti</a>
+  Built with ❤️ by <a href="https://github.com/kireeti01">Yogendra Kireeti</a>
 </p>
