@@ -391,9 +391,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact:
 
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: kireeti213@gmail.com
+- LinkedIn: [yogendra-kireeti](https://linkedin.yogendra-kireeti)
+- GitHub: [@kireeti01](https://github.com/kireeti01)
 
 ---
 
@@ -402,5 +402,5 @@ For questions or feedback, please open an issue or contact:
 </p>
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Built with ❤️ by <a href="https://github.com/kireeti01">kireeti01</a>
 </p>
